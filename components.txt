@@ -1,0 +1,12 @@
+ - for HSYNC: 1 counter of 10-bits
+ - for VSYNC: 1 counter of 10-bits
+ 
+ - for HSYNC: 1 comparator 
+ - for VSYNC: 1 comparator
+ ! both for synchronisation
+ 
+ - videoOn: 1 comparator
+ - colorSet: 1 comparator
+ - shape: 1 comparator
+ - moveShape: 1 comparator
+ - 1 frequency divider: from 50 MHz to 25 Hz
