@@ -1,5 +1,0 @@
-MESSAGE "File: C:\Users\Mihai\Desktop\VGA\Code\ActiveHDL\VGAController\VGAController\src\controller.vhd" 
-MESSAGE "Compile Entity "vgaDriver"" 
-MESSAGE "Entity `vgaDriver' has been skipped - no difference detected." 
-MESSAGE "Compile Architecture "controller" of Entity "vgaDriver"" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 
