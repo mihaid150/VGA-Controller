@@ -1,0 +1,1 @@
+-w -s "C:\Users\Mihai\Desktop\VGA\Code\ActiveHDL\VGAController\library.cfg"  -j "C:\Users\Mihai\Desktop\VGA\Code\ActiveHDL\VGAController\VGAController\projlib.cfg"  -d "C:\Users\Mihai\Desktop\VGA\Code\ActiveHDL\VGAController\VGAController\compile\"  -work VGAController -dbg -e 100 "C:\Users\Mihai\Desktop\VGA\Code\ActiveHDL\VGAController\VGAController\src\controller.vhd" 
